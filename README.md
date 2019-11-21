@@ -1,14 +1,16 @@
 ### Date created
-Include the date you created this project and README file.
+21/11/2019 .
 
 ### Project Title
-Replace the Project Title
+This repository contains projects for Udacity Programming For Data Science.
 
 ### Description
-Describe what your project is about and what it does
+Github Project: Git Commands
+Documentation Template
 
 ### Files used
-Include the files used
+bikeshare.py
+.gitignore
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
